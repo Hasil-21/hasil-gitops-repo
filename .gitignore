@@ -1,2 +1,3 @@
 helm-chart.yaml
 application.yaml
+kustomize-apps.yaml
